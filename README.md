@@ -1,3 +1,3 @@
 # devops-lifecycle-implementation
 
-![Setup Master and Worker Nodes](image/CI--CD.png)
+![Setup Master and Worker Nodes](images/ci_cd.png)
