@@ -1,3 +1,3 @@
 # Architecture - Lifecycle Implementation
 
-![Setup Master and Worker Nodes](images/ci_cd.png)
+![Setup Architecture](images/ci_cd.png)
