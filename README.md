@@ -1,3 +1,3 @@
-# Architecture - Lifecycle Implementation
+# Architecture for Lifecycle Implementation
 
 ![Setup Architecture](images/ci_cd.png)
